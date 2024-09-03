@@ -1,16 +1,27 @@
+
+
 ---
 
 # Hi there, I'm Devraj Parmar! 👋
 
-🎓 I'm currently a student at **SGSITS, Batch S026**, pursuing my degree in **Computer Science and Engineering**.
+## About Me
 
-🎮 **Interests**:
+🎓 **Current Student**: SGSITS INDORE, Batch 2026  
+**Branch**: Computer Science and Engineering
+
+## Interests
+
 - **Game Development**: Crafting immersive experiences and learning the art of game design.
 - **Web Development**: Building responsive and user-friendly websites.
 - **Data Structures & Algorithms**: Solving complex problems and optimizing code.
+- **Exploring New Technologies**: Constantly diving into the latest tools and trends in tech.
 
-🚀 **Currently Exploring**: Always excited to dive into new technologies and keep up with the latest trends in the tech world.
+## What I'm Working On
 
-💡 I’m passionate about learning and growing in the fields of game development, web development, and software engineering. I love to experiment with new frameworks, tools, and languages to expand my skill set.
+🚀 Currently exploring new technologies and expanding my knowledge in web development, and software engineering.
+
+## Connect With Me
+
+Feel free to check out my repositories and connect with me to collaborate or discuss any exciting projects!
 
 ---
