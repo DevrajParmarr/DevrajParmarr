@@ -11,9 +11,9 @@
 
 ## Interests
 
-- **Game Development**: Crafting immersive experiences and learning the art of game design.
 - **Web Development**: Building responsive and user-friendly websites.
 - **Data Structures & Algorithms**: Solving complex problems and optimizing code.
+- **Game Development**: Crafting immersive experiences and learning the art of game design.
 - **Exploring New Technologies**: Constantly diving into the latest tools and trends in tech.
 
 ## What I'm Working On
