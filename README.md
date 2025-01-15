@@ -5,8 +5,7 @@
 # Hi there, I'm Devraj Parmar! 👋
 
 ## About Me
-
-🎓 **Current Student**: SGSITS INDORE, Batch 2026  
+ 
 **Branch**: Computer Science and Engineering
 
 ## Interests
