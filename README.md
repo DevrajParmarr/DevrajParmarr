@@ -7,7 +7,9 @@
 ## About Me
  
 **Branch**: Computer Science and Engineering
+**College**: S.G.S.I.T.S Indore MP
 
+PortFolio Link : https://devrajparmarportfolio.netlify.app/
 ## Interests
 
 - **Web Development**: Building responsive and user-friendly websites.
