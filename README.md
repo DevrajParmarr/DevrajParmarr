@@ -25,4 +25,7 @@ PortFolio Link : https://devrajparmarportfolio.netlify.app/
 
 Feel free to check out my repositories and connect with me to collaborate or discuss any exciting projects!
 
+![Uploading Screenshot 2026-01-20 202722.png…]()
+
+
 ---
