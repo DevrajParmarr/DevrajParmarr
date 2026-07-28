@@ -6,7 +6,7 @@
     <a href="https://devrajparmarportfolio.netlify.app/">
       <img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Site-blue?style=for-the-badge&logo=react" alt="Portfolio" />
     </a>
-    <a href="https://www.linkedin.com/in/devrajparmar">
+    <a href="https://www.linkedin.com/in/devraj-parmar-459363187">
       <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
     </a>
     <a href="mailto:devrajparmar232@gmail.com">
