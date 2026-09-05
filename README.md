@@ -1,6 +1,6 @@
 <div align="center">
   <h1 align="center">Hi there, I'm Devraj Parmar! 👋</h1>
-  <h3>Final-Year Computer Engineering Undergraduate | MERN Stack Developer | Competitive Programmer</h3>
+  <h3>Software Developer @ Neural Nurture | AI/ML Engineer | MERN Stack Developer | Competitive Programmer</h3>
 
   <p>
     <a href="https://devrajparmarportfolio.netlify.app/">
@@ -19,19 +19,21 @@
 
 ## 👨‍💻 About Me
 
-I am a **final-year Computer Engineering student at S.G.S.I.T.S Indore (2026)** with a strong interest in building **scalable backend systems**, **full-stack web applications**, and solving **real-world optimization problems**.
+I'm a Computer Engineering graduate from S.G.S.I.T.S Indore (2026), currently working as a **Software Developer at Neural Nurture**, where I also take on **AI/ML Engineering** responsibilities. I enjoy building **scalable backend systems**, **full-stack web applications**, and solving **real-world optimization problems**.
 
-I enjoy working at the intersection of **system design, performance, and algorithms**, whether it’s competitive programming or production-ready applications.
+I enjoy working at the intersection of **system design, performance, and algorithms**, whether it's competitive programming or production-ready applications.
 
-- 🔭 **Currently exploring:** Advanced backend systems, optimization algorithms & cloud deployment  
-- 🎓 **Degree:** B.Tech Computer Engineering @ SGSITS Indore  
-- 🧠 **Problem Solving:** 450+ DSA problems solved  
-- 🏆 **Competitive Programmer:** Codeforces **Specialist** (Max: 1474), CodeChef **3★**  
-- 💬 **Ask me about:** DSA, MERN Stack, Backend Architecture, System Design  
+- 💼 **Currently:** Software Developer @ Neural Nurture (also handling AI/ML Engineering)
+- 🎓 **Degree:** B.Tech Computer Engineering @ SGSITS Indore (2026 graduate)
+- 🧠 **Problem Solving:** 450+ DSA problems solved
+- 🏆 **Competitive Programmer:** Codeforces **Specialist** (Max: 1474), CodeChef **3★**
+- 💬 **Ask me about:** DSA, MERN Stack, Backend Architecture, System Design, AI/ML
 
 ---
 
 ## 🛠️ Tech Stack & Skills
+
+<div align="center">
 
 **Languages**
 ![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
@@ -53,7 +55,7 @@ I enjoy working at the intersection of **system design, performance, and algorit
 
 **Tools**
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-|
+</div>|
 
 ---
 
